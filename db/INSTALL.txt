@@ -1,0 +1,9 @@
+Follow these steps to create the required tables in SQLite
+
+1. In an empty SQLITE database import 'CDE_SCHEMA_D_CATCHMENT_RELATIONSHIP.csv' (select use column names in first row)
+
+2. Run 'create.sql' to establish the data and join tables from the above table
+
+3. Run 'node get_opcats.js 780' to fully populate the 'features' field of the 'opcats' table from the DEFRA API (takes about 12 mins due to rate limiting)
+
+4. Run 'node populate_boundaries.js' to derive the 'boundary' field of the 'opcats', 'mancats' and 'rbds' tables from 'opcats.features'

@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Leaflet Map with GeoJSON Selection</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/stylesheets/leaflet.css">
+    <link rel="stylesheet" href="/stylesheets/style.css">
+</head>
+<body>
+
+    <!-- Dropdown Control for River Basin Districts -->
+    <div id="river-basins" class="dropdown" style="display: none;">
+        <label for="rbd-select">Select River Basin:</label><br/>
+        <select id="rbd-select">
+        </select>
+    </div>
+    
+    <!-- Dropdown Control for Management Catchments -->
+    <div id="management-catchments" class="dropdown" style="display: none;">
+        <label for="mancat-select">Select Management Catchment:</label><br/>
+        <select id="mancat-select">
+        </select>
+    </div>
+    
+    <!-- Dropdown Control for Operational Catchments -->
+    <div id="operational-catchments" class="dropdown" style="display: none;">
+        <label for="opcat-select">Select Operational Catchment:</label><br/>
+        <select id="opcat-select">
+        </select>
+    </div>
+
+    <!-- Dropdown Control for GeoJSON Features -->
+    <div id="features" class="dropdown" style="display: none;">
+        <label for="feature-select">Select Feature Type:</label><br/>
+        <select id="feature-select">
+            <option value="all">All Features</option>
+            <option value="catchments">Catchments</option>
+            <option value="rivers">Rivers</option>
+            <option value="lakes">Lakes</option>
+        </select>
+    </div>
+    
+    <!-- Dropdown Control for GeoJSON Sources (Operational Catchments)-->
+    <!-- <div id="sources">
+        <label for="geojsonSource">Select Source:</label><br/>
+        <select id="geojsonSource">
+            <option value="ManagementCatchment/3049">London</option>
+            <option value="OperationalCatchment/3032">Beverley Brook</option>
+            <option value="OperationalCatchment/3044">Brent</option>
+            <option value="OperationalCatchment/3096">Colne</option>
+            <option value="OperationalCatchment/3112">Crane</option>
+            <option value="OperationalCatchment/3113">Cray and Shuttle</option>
+            <option value="OperationalCatchment/3121">Darent</option>
+            <option value="OperationalCatchment/3224">Hogsmill</option>
+            <option value="OperationalCatchment/3275">Lower Lee</option>
+            <option value="OperationalCatchment/3298">Marsh Dykes</option>
+            <option value="OperationalCatchment/3369">Ravensbourne</option>
+            <option value="OperationalCatchment/3383">Roding Beam and Ingrebourne</option>
+            <option value="OperationalCatchment/3285">Thames Lower</option>
+            <option value="OperationalCatchment/3514">Wandle</option>
+        </select>
+    </div> -->
+    
+    <div id="map"></div>
+    
+    <p>Note: <a href="">English river catchments</a> excluding ground water and tidal bodies and areas in Scotland or Wales</p> 
+    
+    <script src="/javascripts/webmap.js"></script>
+</body>
+</html>

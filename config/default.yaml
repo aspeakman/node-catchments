@@ -1,0 +1,10 @@
+
+"port": 3001
+"batch_size": 10 # default number of database opcat entries to update from API each run (once per second)
+"db_file": "defra.sqlite" # the SQlite database with data (note in the 'db' directory)
+"db_options": {}
+
+
+
+
+

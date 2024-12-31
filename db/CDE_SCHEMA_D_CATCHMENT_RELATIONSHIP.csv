@@ -1,0 +1,751 @@
+﻿RBD_ID,RBD_NAME,mancatid,mancatname,OpCatID,OpCatName
+2,Solway Tweed,3100,Till,3379,Till River
+2,Solway Tweed,3102,Tweed,3380,Tweed River
+2,Solway Tweed,3109,Waver and Wampool,3519,Waver-Wampool
+2,Solway Tweed,3036,Eden and Esk,3155,Eamont
+2,Solway Tweed,3036,Eden and Esk,3166,Eden Upper
+2,Solway Tweed,3036,Eden and Esk,3063,Caldew
+2,Solway Tweed,3036,Eden and Esk,3165,Eden Lower
+2,Solway Tweed,3036,Eden and Esk,3178,Esk and Irthing
+2,Solway Tweed,3036,Eden and Esk,3360,Petteril
+3,Northumbria,3067,Northumberland Rivers,3030,Berwick to Alnmouth Coast
+3,Northumbria,3067,Northumberland Rivers,3036,Blyth
+3,Northumbria,3067,Northumberland Rivers,3006,Aln
+3,Northumbria,3067,Northumberland Rivers,3105,Coquet Lower
+3,Northumbria,3067,Northumberland Rivers,3515,Wansbeck
+3,Northumbria,3067,Northumberland Rivers,3294,Lyne and Druridge Bay Coast
+3,Northumbria,3067,Northumberland Rivers,3107,Coquet Upper
+3,Northumbria,3067,Northumberland Rivers,3366,Pont
+3,Northumbria,3103,Tyne,3005,Allen
+3,Northumbria,3103,Tyne,3136,Derwent Tyne
+3,Northumbria,3103,Tyne,3478,Tyne Lower and Estuary
+3,Northumbria,3103,Tyne,3333,North Tyne Lower
+3,Northumbria,3103,Tyne,3334,North Tyne Upper
+3,Northumbria,3103,Tyne,3372,Rede
+3,Northumbria,3103,Tyne,3418,South Tyne Upper
+3,Northumbria,3103,Tyne,3417,South Tyne Lower
+3,Northumbria,3103,Tyne,3480,Tyne Upper
+3,Northumbria,3110,Wear,3197,Gaunless
+3,Northumbria,3110,Wear,3522,Wear Middle
+3,Northumbria,3110,Wear,3052,Browney
+3,Northumbria,3110,Wear,3520,Wear Lower and Estuary
+3,Northumbria,3110,Wear,3523,Wear Upper
+3,Northumbria,3093,Tees,3252,Leven Northumbria
+3,Northumbria,3093,Tees,3388,Saltburn Coast
+3,Northumbria,3093,Tees,3445,Tees Lower and Estuary
+3,Northumbria,3093,Tees,3447,Tees Middle
+3,Northumbria,3093,Tees,3448,Tees Upper
+3,Northumbria,3093,Tees,3406,Skerne
+3,Northumbria,3110,Wear,3394,Seaham Peterlee Coast
+4,Humber,3039,Hull and East Riding,3057,Burstwick and Eastern Drains
+4,Humber,3039,Hull and East Riding,3025,Barmston Sea Drain
+4,Humber,3039,Hull and East Riding,3191,Foulness
+4,Humber,3039,Hull and East Riding,3274,Hull Lower
+4,Humber,3039,Hull and East Riding,3492,Hull Upper
+4,Humber,3039,Hull and East Riding,3214,Gypsey Race
+4,Humber,3029,Don and Rother,3385,Rother and Doe Lea
+4,Humber,3029,Don and Rother,3490,Don Upper
+4,Humber,3029,Don and Rother,3312,Don Middle
+4,Humber,3029,Don and Rother,3125,Dearne
+4,Humber,3029,Don and Rother,3272,Don Lower
+4,Humber,3001,Aire and Calder,3097,Colne and Holme
+4,Humber,3001,Aire and Calder,3268,Calder Lower
+4,Humber,3001,Aire and Calder,3310,Calder Middle
+4,Humber,3001,Aire and Calder,3487,Calder Upper
+4,Humber,3001,Aire and Calder,3265,Aire Lower
+4,Humber,3001,Aire and Calder,3307,Aire Middle
+4,Humber,3001,Aire and Calder,3484,Aire Upper
+4,Humber,3027,Derwent Humber,3271,Derwent Lower Yorkshire
+4,Humber,3088,Swale Ure Nidd and Ouse Upper,3190,Foss
+4,Humber,3027,Derwent Humber,3311,Derwent Middle Yorkshire
+4,Humber,3115,Wharfe and Ouse Lower,3280,Ouse Lower Yorkshire
+4,Humber,3088,Swale Ure Nidd and Ouse Upper,3308,Nidd Middle and Lower
+4,Humber,3088,Swale Ure Nidd and Ouse Upper,3499,Ouse Upper Yorkshire
+4,Humber,3088,Swale Ure Nidd and Ouse Upper,3309,Ure Middle and Lower
+4,Humber,3088,Swale Ure Nidd and Ouse Upper,3497,Nidd Upper
+4,Humber,3115,Wharfe and Ouse Lower,3287,Wharfe Lower
+4,Humber,3115,Wharfe and Ouse Lower,3318,Wharfe Middle and Washburn
+4,Humber,3115,Wharfe and Ouse Lower,3507,Wharfe Upper
+4,Humber,3027,Derwent Humber,3489,Derwent Upper Yorkshire
+4,Humber,3037,Esk and Coast,3177,Esk
+4,Humber,3027,Derwent Humber,3387,Rye
+4,Humber,3037,Esk and Coast,3381,Robin Hoods Bay
+4,Humber,3037,Esk and Coast,3390,Sandsend and Staithes
+4,Humber,3088,Swale Ure Nidd and Ouse Upper,3283,Swale Lower
+4,Humber,3088,Swale Ure Nidd and Ouse Upper,3317,Swale Middle
+4,Humber,3088,Swale Ure Nidd and Ouse Upper,3541,Wiske
+4,Humber,3088,Swale Ure Nidd and Ouse Upper,3503,Swale Upper
+4,Humber,3088,Swale Ure Nidd and Ouse Upper,3505,Ure Upper
+4,Humber,3090,Tame Anker and Mease,3038,Blythe Rivers
+4,Humber,3090,Tame Anker and Mease,3396,Sence Anker and Bourne Rivers and Lakes
+4,Humber,3090,Tame Anker and Mease,3437,Tame Lower Rivers and Lakes
+4,Humber,3078,Soar,3407,Soar River
+4,Humber,3090,Tame Anker and Mease,3438,Tame Upper Rivers
+4,Humber,3101,Trent Valley Staffordshire,3035,Blithe Rivers and Lakes
+4,Humber,3032,Dove,3143,Dove Lower Rivers and Lakes
+4,Humber,3090,Tame Anker and Mease,3303,Mease Rivers
+4,Humber,3101,Trent Valley Staffordshire,3356,Penk Rivers and Lakes
+4,Humber,3101,Trent Valley Staffordshire,3420,Sow Rivers and Lakes
+4,Humber,3090,Tame Anker and Mease,3472,Trent - Tame to Dove Rivers
+4,Humber,3052,Trent Lower and Erewash,3416,Nottinghamshire South B
+4,Humber,3101,Trent Valley Staffordshire,3471,Trent - Sow to Tame Rivers and Lakes
+4,Humber,3052,Trent Lower and Erewash,3474,Trent River
+4,Humber,3078,Soar,3546,Wreake River
+4,Humber,3026,Derwent Derbyshire,3135,Derwent Middle - Derbyshire
+4,Humber,3026,Derwent Derbyshire,3137,Derwent Upper -  Derbyshire
+4,Humber,3026,Derwent Derbyshire,3134,Derwent Lower - Derbyshire
+4,Humber,3052,Trent Lower and Erewash,3174,Erewash River
+4,Humber,3032,Dove,3144,Dove Upper Rivers and Lakes
+4,Humber,3032,Dove,3080,Churnet Rivers and Lakes
+4,Humber,3052,Trent Lower and Erewash,3341,Nottingham Urban
+4,Humber,3041,Idle and Torne,3229,Idle River
+4,Humber,3101,Trent Valley Staffordshire,3470,Trent - Source to Sow Rivers
+4,Humber,3052,Trent Lower and Erewash,3415,Nottinghamshire South A
+4,Humber,3052,Trent Lower and Erewash,3473,Trent and Trib
+4,Humber,3041,Idle and Torne,3234,Isle of Axholme
+4,Humber,3050,Louth Grimsby and Ancholme,3012,Ancholme
+4,Humber,3050,Louth Grimsby and Ancholme,3338,Becks Northern
+5,Anglian,3116,Witham,3422,Steeping and Eaus
+5,Anglian,3116,Witham,3413,South Forty Foot Drain
+5,Anglian,3116,Witham,3508,Witham Upper
+5,Anglian,3116,Witham,3288,Witham Lower
+5,Anglian,3112,Welland,3506,Welland Upper
+5,Anglian,3112,Welland,3203,Glens
+5,Anglian,3112,Welland,3286,Welland Lower
+5,Anglian,3059,Nene,3315,Nene Middle
+5,Anglian,3059,Nene,3233,Ise
+5,Anglian,3059,Nene,3496,Nene Upper
+5,Anglian,3059,Nene,3042,Brampton Branch
+5,Anglian,3059,Nene,3538,Willow Brook
+5,Anglian,3059,Nene,3278,Nene Lower
+5,Anglian,3104,Ouse Upper and Bedford,3349,Ouzel and Milton Keynes
+5,Anglian,3104,Ouse Upper and Bedford,3491,Great Ouse Upper
+5,Anglian,3009,Cam and Ely Ouse,3064,Cam Rhee and Granta
+5,Anglian,3104,Ouse Upper and Bedford,3239,Ivel
+5,Anglian,3009,Cam and Ely Ouse,3269,Cam Lower
+5,Anglian,3104,Ouse Upper and Bedford,3028,Great Ouse Bedford
+5,Anglian,3104,Ouse Upper and Bedford,3273,Great Ouse Lower
+5,Anglian,3009,Cam and Ely Ouse,3249,Lark
+5,Anglian,3009,Cam and Ely Ouse,3256,Little Ouse and Thet
+5,Anglian,3069,Old Bedford and Middle Level,3313,Middle Level
+5,Anglian,3009,Cam and Ely Ouse,3542,Wissey
+5,Anglian,3065,North West Norfolk,3336,North West Norfolk Rivers
+5,Anglian,3008,Broadland Rivers,3518,Waveney
+5,Anglian,3008,Broadland Rivers,3553,Yare
+5,Anglian,3008,Broadland Rivers,3054,Bure
+5,Anglian,3008,Broadland Rivers,3527,Wensum
+5,Anglian,3064,North Norfolk Rivers,3331,North Norfolk
+5,Anglian,3035,Suffolk East,3427,Suffolk Coastal
+5,Anglian,3035,Suffolk East,3126,Deben
+5,Anglian,3035,Suffolk East,3199,Gipping
+5,Anglian,3018,Essex Combined,3424,Stour OC
+5,Anglian,3018,Essex Combined,3118,Crouch and Roach
+5,Anglian,3018,Essex Combined,3077,Chelmer
+5,Anglian,3018,Essex Combined,3034,Blackwater
+5,Anglian,3018,Essex Combined,3098,Colne Essex
+6,Thames,3084,Essex South,3297,Mardyke
+6,Thames,3071,Roding Beam and Ingrebourne,3383,Roding Beam and Ingrebourne
+6,Thames,3049,London,3275,Lee Lower Rivers and Lakes
+6,Thames,3105,Lee Upper,3493,Lee Upper
+6,Thames,3114,Wey and Trib,3536,Wey
+6,Thames,3048,Loddon and Trib,3261,Loddon
+6,Thames,3044,Kennet and Trib,3242,Kennet
+6,Thames,3049,London,3224,Hogsmill
+6,Thames,3058,Mole,3495,Mole Upper Trib
+6,Thames,3058,Mole,3277,Mole Lower and Rythe
+6,Thames,3049,London,3514,Wandle
+6,Thames,3054,Maidenhead and Sunbury,3285,Thames Lower
+6,Thames,3049,London,3032,Beverley Brook
+6,Thames,3038,Gloucestershire and the Vale,3504,Thames Upper
+6,Thames,3049,London,3044,Brent Rivers and Lakes
+6,Thames,3017,Colne,3096,Colne
+6,Thames,3049,London,3112,Crane Rivers and Lakes
+6,Thames,3098,Thames and Chilterns South,3412,Chilterns South
+6,Thames,3049,London,3369,Ravensbourne
+6,Thames,3038,Gloucestershire and the Vale,3343,Ock
+6,Thames,3049,London,3298,Marsh Dykes
+6,Thames,3098,Thames and Chilterns South,3459,Thame
+6,Thames,3021,Cotswolds,3539,Windrush
+6,Thames,3012,Cherwell and Ray,3079,Cherwell
+6,Thames,3021,Cotswolds,3181,Evenlode
+6,Thames,3012,Cherwell and Ray,3350,Oxon Ray
+6,Thames,3055,Medway,3494,Medway Upper
+6,Thames,3055,Medway,3031,Beult
+6,Thames,3055,Medway,3164,Eden
+6,Thames,3055,Medway,3314,Medway Middle
+6,Thames,3055,Medway,3453,Teise
+6,Thames,3063,Kent North,3537,White Drain and Lakes
+6,Thames,3023,Darent and Cray,3113,Cray and Shuttle
+6,Thames,3023,Darent and Cray,3121,Darent
+7,South East,3072,Rother,3043,Brede and Tillingham
+7,South East,3072,Rother,3384,Romney Marsh South
+7,South East,3072,Rother,3386,Rother Levels
+7,South East,3072,Rother,3371,Reading Cradlebridge and RMC
+7,South East,3072,Rother,3500,Rother Upper
+7,South East,3087,Stour,3142,Dour
+7,South East,3087,Stour,3330,North and South Streams
+7,South East,3087,Stour,3282,Stour Lower
+7,South East,3087,Stour,3257,Little Stour and Wingham
+7,South East,3087,Stour,3423,Stour Marshes
+7,South East,3087,Stour,3351,Oyster Coast Brooks
+7,South East,3087,Stour,3501,Stour Upper
+7,South East,3004,Arun and Western Streams,3534,Western Streams
+7,South East,3004,Arun and Western Streams,3266,Arun Lower
+7,South East,3022,Cuckmere and Pevensey Levels,3361,Pevensey
+7,South East,3000,Adur and Ouse,3458,Teville
+7,South East,3000,Adur and Ouse,3483,Adur Upper
+7,South East,3004,Arun and Western Streams,3486,Arun Upper
+7,South East,3022,Cuckmere and Pevensey Levels,3488,Cuckmere Upper
+7,South East,3000,Adur and Ouse,3498,Ouse Upper
+7,South East,3022,Cuckmere and Pevensey Levels,3100,Combe Haven
+7,South East,3004,Arun and Western Streams,3533,Rother Western
+7,South East,3060,New Forest,3327,New Forest - Lymington and Beaulieu
+7,South East,3060,New Forest,3326,New Forest - Hatchet Sowley
+7,South East,3060,New Forest,3027,Becton Bunny
+7,South East,3060,New Forest,3248,Langdown Stream
+7,South East,3034,East Hampshire,3157,East Hampshire Rivers
+7,South East,3097,Test and Itchen,3237,Itchen
+7,South East,3097,Test and Itchen,3284,Test Lower and Southampton Streams
+7,South East,3060,New Forest,3325,New Forest - Bartley Water
+7,South East,3097,Test and Itchen,3485,Test Upper and Middle
+7,South East,3043,Isle of Wight,3235,Isle of Wight Rivers
+8,South West,3006,Avon Hampshire,3216,Avon Hampshire
+8,South West,3030,Dorset,3140,Stour Dorset
+8,South West,3030,Dorset,3528,West Dorset Rivers
+8,South West,3030,Dorset,3367,Poole Harbour Rivers
+8,South West,3033,Devon East,3253,Lim and Axe
+8,South West,3033,Devon East,3085,Clyst and Culm
+8,South West,3033,Devon East,3114,Creedy and West Exe
+8,South West,3033,Devon East,3183,Exe Main
+8,South West,3033,Devon East,3405,Sid and Otter
+8,South West,3081,Devon South,3022,Avon Salcombe and Kingsbridge
+8,South West,3081,Devon South,3123,Dart Start Bay and Torbay
+8,South West,3081,Devon South,3175,Erme
+8,South West,3081,Devon South,3451,Teign
+8,South West,3089,Tamar,3364,Plym
+8,South West,3089,Tamar,3295,Lynher
+8,South West,3089,Tamar,3555,Yealm
+8,South West,3089,Tamar,3435,Tamar Lower and Inny
+8,South West,3089,Tamar,3464,Thrushel Wolf and Lyd
+8,South West,3089,Tamar,3436,Tamar Upper
+8,South West,3089,Tamar,3440,Tavy
+8,South West,3113,Cornwall West and the Fal,3184,Fal
+8,South West,3113,Cornwall West and the Fal,3094,Cober and Lizard
+8,South West,3113,Cornwall West and the Fal,3352,Par St Austell and Caerhays
+8,South West,3061,North Cornwall Seaton Looe and Fowey,3192,Fowey
+8,South West,3061,North Cornwall Seaton Looe and Fowey,3395,Seaton Looe and Polperro
+8,South West,3113,Cornwall West and the Fal,3357,Penwith Peninsula
+8,South West,3061,North Cornwall Seaton Looe and Fowey,3196,Gannel Porth and Menalhyl
+8,South West,3061,North Cornwall Seaton Looe and Fowey,3065,Camel
+8,South West,3113,Cornwall West and the Fal,3221,Hayle Red River and Northern Streams
+8,South West,3061,North Cornwall Seaton Looe and Fowey,3426,Strat Neet and North Coast Streams
+8,South West,3062,North Devon,3468,Torridge
+8,South West,3062,North Devon,3441,Taw and North Devon Streams
+8,South West,3062,North Devon,3218,Hartland and Clovelly Streams
+8,South West,3080,Somerset South and West,3530,Somerset West Streams
+8,South West,3080,Somerset South and West,3353,Parrett
+8,South West,3080,Somerset South and West,3053,Brue and Axe
+8,South West,3080,Somerset South and West,3466,Tone
+9,Severn,3005,Avon Bristol and Somerset North Streams,3332,Somerset North Streams
+9,Severn,3005,Avon Bristol and Somerset North Streams,3045,Avon Bristol Rural
+9,Severn,3005,Avon Bristol and Somerset North Streams,3046,Avon Bristol Urban
+9,Severn,3077,Severn Vale,3194,Frome and Cam
+9,Severn,3005,Avon Bristol and Somerset North Streams,3281,Severn Lower Vale
+9,Severn,3077,Severn Vale,3250,Leadon
+9,Severn,3077,Severn Vale,3189,Forest of Dean
+9,Severn,3077,Severn Vale,3204,Gloucester Trib
+9,Severn,3077,Severn Vale,3399,Severn River and Trib
+9,Severn,3077,Severn Vale,3078,Chelt Hatherley and Normans Brook
+9,Severn,3007,Avon Warwickshire,3018,Avon - Midlands West
+9,Severn,3007,Avon Warwickshire,3020,Avon Rural Rivers and Lakes
+9,Severn,3077,Severn Vale,3058,Bushley Longdon Marlbank and Ripple Brook
+9,Severn,3077,Severn Vale,3296,Malvern Hills
+9,Severn,3096,Teme,3456,Teme Lower
+9,Severn,3007,Avon Warwickshire,3021,Avon Urban Rivers and Lakes
+9,Severn,3096,Teme,3081,Clun River
+9,Severn,3096,Teme,3457,Teme Upper
+9,Severn,3075,Severn Middle Worcestershire,3401,Severn River Worcestershire
+9,Severn,3075,Severn Middle Worcestershire,3389,Salwarpe River
+9,Severn,3075,Severn Middle Worcestershire,3425,Stour River and Trib
+9,Severn,3075,Severn Middle Worcestershire,3404,Shropshire West
+9,Severn,3075,Severn Middle Worcestershire,3502,Stour Upper Worcestershire Rivers and Lakes
+9,Severn,3075,Severn Middle Worcestershire,3544,Worfe River
+9,Severn,3076,Severn Uplands,3321,Morda and Severn North Shropshire
+9,Severn,3075,Severn Middle Worcestershire,3455,Telford South
+9,Severn,3074,Severn Middle Shropshire,3359,Perry Roden and Tern North Shropshire
+9,Severn,3076,Severn Uplands,3110,Cound Brook
+9,Severn,3076,Severn Uplands,3067,Camlad
+9,Severn,3076,Severn Uplands,3370,Rea Brook
+9,Severn,3074,Severn Middle Shropshire,3454,Telford North
+9,Severn,3117,Wye MC,3320,Monnow
+9,Severn,3117,Wye MC,3549,Wye OC
+9,Severn,3117,Wye MC,3014,Arrow Lugg and Frome
+9,Severn,3117,Wye MC,3547,Wye - Ithon to Hay
+11,Dee,3024,Dee,3075,Ceiriog
+11,Dee,3024,Dee,3545,Worthenbury
+11,Dee,3024,Dee,3129,Dee Lower Chester Weir to Ceiriog
+11,Dee,3024,Dee,3127,Dee Estuary
+12,North West,3111,Weaver Gowy,3525,Weaver Upper
+12,North West,3111,Weaver Gowy,3120,Dane
+12,North West,3111,Weaver Gowy,3205,Gowy
+12,North West,3051,Mersey Lower,3540,Wirral
+12,North West,3111,Weaver Gowy,3524,Weaver Lower
+12,North West,3002,Alt and Crossens,3008,Alt
+12,North West,3106,Mersey Upper,3039,Bollin Dean Mersey Upper
+12,North West,3051,Mersey Lower,3139,Ditton
+12,North West,3106,Mersey Upper,3206,Goyt Etherow Tame
+12,North West,3051,Mersey Lower,3202,Glaze
+12,North West,3042,Irwell,3116,Croal Irwell
+12,North West,3051,Mersey Lower,3391,Sankey
+12,North West,3042,Irwell,3382,Roch Irk Medlock
+12,North West,3031,Douglas,3141,Douglas OC
+12,North West,3002,Alt and Crossens,3117,Crossens System
+12,North West,3031,Douglas,3554,Yarrow and Lostock
+12,North West,3070,Ribble,3062,Calder
+12,North West,3070,Ribble,3099,Colne Water
+12,North West,3070,Ribble,3124,Darwen
+12,North West,3070,Ribble,3223,Hodder and Loud
+12,North West,3070,Ribble,3392,Savick Brook and Fylde South Drains
+12,North West,3070,Ribble,3033,Big Ribble
+12,North West,3070,Ribble,3316,Ribble Middle  - Settle to Calder
+12,North West,3070,Ribble,3254,Limestone Ribble
+12,North West,3119,Wyre,3051,Brock and Trib
+12,North West,3119,Wyre,3188,Fleetwood Peninsula Trib
+12,North West,3119,Wyre,3552,Wyre and Calder
+12,North West,3053,Lune,3363,Pilling Ridgy Cocker and Conder
+12,North West,3053,Lune,3290,Lune - Rawthey to Greta
+12,North West,3053,Lune,3526,Wenning
+12,North West,3053,Lune,3209,Greta and Rawthey
+12,North West,3053,Lune,3291,Lune Upper
+12,North West,3053,Lune,3240,Keer
+12,North West,3045,Kent and Leven,3243,Kent
+12,North West,3045,Kent and Leven,3029,Bela
+12,North West,3045,Kent and Leven,3251,Leven
+12,North West,3045,Kent and Leven,3111,Crake
+12,North West,3085,South West Lakes,3231,Irt-Mite-Esk-Annas
+12,North West,3085,South West Lakes,3167,Ehen-Calder
+12,North West,3085,South West Lakes,3145,Duddon
+12,North West,3028,Derwent North West,3132,Derwent
+12,North West,3028,Derwent North West,3095,Cocker
+12,North West,3028,Derwent North West,3168,Ellen and West Coast
+5,Anglian,3116,Witham,3156,Fens East and West
+5,Anglian,3069,Old Bedford and Middle Level,3347,Old Bedford
+5,Anglian,3009,Cam and Ely Ouse,3414,South Level and Cut-Off Channel
+6,Thames,3055,Medway,3276,Medway Lower
+2,Solway Tweed,1013,Solway Tweed GW,1079,Eden Valley and Carlisle Basin Permo-Triassic Sandstone Aq
+2,Solway Tweed,1013,Solway Tweed GW,1030,Carlisle Basin Triassic and Jurassic Aq
+2,Solway Tweed,1013,Solway Tweed GW,1078,Eden and Esk Lower Palaeozoic and Carboniferous Aq
+2,Solway Tweed,1013,Solway Tweed GW,1236,Till Devonian and Lower Carboniferous
+3,Northumbria,1010,Northumbria GW,1229,Tees Sherwood Sandstone
+3,Northumbria,1010,Northumbria GW,1267,Wear Magnesian Limestone
+3,Northumbria,1010,Northumbria GW,1187,Skerne Magnesian Limestone
+3,Northumbria,1010,Northumbria GW,1148,Northumberland Carboniferous Limestone and Coal Measures
+3,Northumbria,1010,Northumbria GW,1227,Tees  Carb Limestone and Millstone Grit
+3,Northumbria,1010,Northumbria GW,1228,Tees Mercia Mudstone and Redcar Mudstone
+3,Northumbria,1010,Northumbria GW,1245,Tyne Carboniferous Limestone and Coal Measures
+3,Northumbria,1010,Northumbria GW,1266,Wear Carboniferous Limestone and Coal Measures
+3,Northumbria,1010,Northumbria GW,1244,Tyne Carboniferous Limestone
+2,Solway Tweed,1013,Solway Tweed GW,1237,Till Fell Sandstone
+3,Northumbria,1010,Northumbria GW,1149,Northumberland Devonian and Lower Carboniferous
+4,Humber,1006,Humber GW,1056,Derwent - Carboniferous Limestone
+9,Severn,1011,Severn England GW,1203,Staffordshire Trent Valley - Permo-Triassic Sandstone Bishops Wood
+4,Humber,1006,Humber GW,1204,Staffordshire Trent Valley - Permo-Triassic Sandstone Staffordshire
+4,Humber,1006,Humber GW,1102,Idle Torne - Magnesian Limestone
+4,Humber,1006,Humber GW,1224,Tame Anker Mease - Permo-Triassic Sandstone Birmingham Lichfield
+4,Humber,1006,Humber GW,1225,Tame Anker Mease - Permo-Triassic Sandstone Burton
+4,Humber,1006,Humber GW,1126,Trent Lower Erewash - Permo-Triassic Sandstone Wollaton
+4,Humber,1006,Humber GW,1103,Idle Torne - Permo-Triassic Sandstone Nottinghamshire and Doncaster
+4,Humber,1006,Humber GW,1071,Dove - Permo-Triassic Sandstone Mayfield
+4,Humber,1006,Humber GW,1124,Trent Lower Erewash - Magnesian Limestone
+4,Humber,1006,Humber GW,1067,Dove - Carboniferous Limestone
+4,Humber,1006,Humber GW,1070,Dove - Permo-Triassic Sandstone Leek
+4,Humber,1006,Humber GW,1221,Tame Anker and Mease - Permo-Triassic Sandstone Nuneaton and Meriden
+4,Humber,1006,Humber GW,1188,Soar - Permo-Triassic Sandstone
+4,Humber,1006,Humber GW,1057,Derwent - Permo-Triassic Sandstone Derby
+9,Severn,1011,Severn England GW,1262,Avon Warwickshire - Permo-Triassic Sandstone Bromsgove South
+4,Humber,1006,Humber GW,1096,Grimsby Ancholme Louth Chalk Unit
+4,Humber,1006,Humber GW,1016,Blisworth Limestone Rutland Fm - Humber
+4,Humber,1006,Humber GW,1097,Grimsby Ancholme Louth Limestone Unit
+4,Humber,1006,Humber GW,1063,Derwent Sherwood Sandstone
+4,Humber,1006,Humber GW,1101,Hull and East Riding Chalk
+4,Humber,1006,Humber GW,1002,Aire and Don Magnesian Limestone
+4,Humber,1006,Humber GW,1003,Aire and Don Sherwood Sandstone
+4,Humber,1006,Humber GW,1282,Wharfe Magnesian Limestone
+4,Humber,1006,Humber GW,1064,Derwent Vale of Pickering Corallian Limestone
+4,Humber,1006,Humber GW,1207,SUNO Magnesian Limestone
+4,Humber,1006,Humber GW,1210,SUNO Sherwood Sandstone
+4,Humber,1006,Humber GW,1281,Wharfe and Ouse Lower Sherwood Sandstone
+4,Humber,1006,Humber GW,1061,Derwent Malton Corallian Limestone
+4,Humber,1006,Humber GW,1201,Staffordshire Trent Valley - Mercia Mudstone East and Coal Measures
+4,Humber,1006,Humber GW,1202,Staffordshire Trent Valley - Merica Mudstone West
+4,Humber,1006,Humber GW,1069,Dove - Millstone Grit and Coal Measures
+4,Humber,1006,Humber GW,1125,Trent Lower Erewash - Coal Measures
+4,Humber,1006,Humber GW,1223,Tame Anker Mease - Coal Measures Swadlincote
+4,Humber,1006,Humber GW,1200,Staffordshire Trent Valley - Coal Measures Stoke
+4,Humber,1006,Humber GW,1049,Cornbrash - Humber
+4,Humber,1006,Humber GW,1095,Grimsby Ancholme Frodingham Ironstone Unit
+4,Humber,1006,Humber GW,1001,Aire and Calder Carb Limestone - Millstone Grit Coal - Measures
+4,Humber,1006,Humber GW,1280,Wharfe and OuseLower Millstone Grit and Carb Limestone
+4,Humber,1006,Humber GW,1062,Derwent Yorkshire North Moors Ravenscar
+4,Humber,1006,Humber GW,1208,SUNO Mercia Mudstone and Redcar Mudstone
+4,Humber,1006,Humber GW,1209,SUNO Millstone Grit and Carboniferous Limestone
+4,Humber,1006,Humber GW,1059,Derwent South Mercia Mudstone and Lias and Ravenscar and Norton Corallian
+4,Humber,1006,Humber GW,1082,Esk and Yorkshire Coast Ravenscar
+4,Humber,1006,Humber GW,1077,East Riding Mercia Mudstone
+4,Humber,1006,Humber GW,1127,Trent Lower Erewash - Secondary Combined
+4,Humber,1006,Humber GW,1058,Derwent - Secondary Combined
+4,Humber,1006,Humber GW,1068,Dove - Mercia Mudstone
+4,Humber,1006,Humber GW,1189,Soar - Secondary Combined
+4,Humber,1006,Humber GW,1226,Tame Anker Mease - Secondary Combined
+4,Humber,1006,Humber GW,1104,Idle Torne - Secondary Mudrocks
+4,Humber,1006,Humber GW,1065,Don and Rother Millstone grit and Coal Measures
+4,Humber,1006,Humber GW,1222,Tame Anker Mease - Coal Measures Black Country
+5,Anglian,1000,Anglian GW,1143,North Norfolk Chalk
+5,Anglian,1000,Anglian GW,1144,North West Norfolk Chalk
+5,Anglian,1000,Anglian GW,1022,Broadland Rivers Chalk and Crag
+5,Anglian,1000,Anglian GW,1145,North West Norfolk Sandringham Sands
+5,Anglian,1000,Anglian GW,1026,Cam and Ely Ouse Chalk
+5,Anglian,1000,Anglian GW,1265,Waveney and Suffolk East Chalk and Crag
+5,Anglian,1000,Anglian GW,1139,Essex North Chalk
+5,Anglian,1000,Anglian GW,1206,Steeping Long Eau Little Eau Chalk Unit
+5,Anglian,1000,Anglian GW,1205,Steeping Great Eau Long Eau and Witham Spilsby Sandstone Unit
+5,Anglian,1000,Anglian GW,1086,Felixstowe Peninsula Crag and Chalk
+5,Anglian,1000,Anglian GW,1251,Ouse Upper Bedford Woburn Sands
+5,Anglian,1000,Anglian GW,1248,Ouse Upper Bedford Principal Oolite 1
+5,Anglian,1000,Anglian GW,1287,Witham Limestone Unit A
+5,Anglian,1000,Anglian GW,1015,Blisworth Limestone Rutland Fm - Anglian
+5,Anglian,1000,Anglian GW,1288,Witham Limestone Unit B
+5,Anglian,1000,Anglian GW,1272,Welland Mid Jurassic Unit
+5,Anglian,1000,Anglian GW,1136,Nene Northampton Sands
+5,Anglian,1000,Anglian GW,1146,Northampton Sands
+5,Anglian,1000,Anglian GW,1249,Ouse Upper Bedford Principal Oolite 2
+5,Anglian,1000,Anglian GW,1027,Cam and Ely Ouse Woburn Sands
+5,Anglian,1000,Anglian GW,1269,Welland Limestone Unit A
+5,Anglian,1000,Anglian GW,1271,Welland Lower Jurassic Unit
+5,Anglian,1000,Anglian GW,1140,Essex North Lower London Tertiaries
+5,Anglian,1000,Anglian GW,1250,Ouse Upper Bedford Secondary Oolite
+5,Anglian,1000,Anglian GW,1286,Witham Lias U
+5,Anglian,1000,Anglian GW,1135,Nene Mid Lower Jurassic Unit
+5,Anglian,1000,Anglian GW,1048,Cornbrash -Anglian
+5,Anglian,1000,Anglian GW,1270,Welland Limestone Unit B
+5,Anglian,1000,Anglian GW,1285,Witham Bain and Gravels
+5,Anglian,1000,Anglian GW,1083,Essex Gravels
+6,Thames,1019,Thames GW,1196,Essex South Thurrock Chalk
+6,Thames,1019,Thames GW,1142,Kent North Medway Chalk
+6,Thames,1019,Thames GW,1113,Kent Greensand Middle and Western
+6,Thames,1019,Thames GW,1010,Basingstoke Chalk
+6,Thames,1019,Thames GW,1141,Kent North Chalk and Tertiaries
+6,Thames,1019,Thames GW,1277,West Kent Darent and Cray Chalk
+6,Thames,1019,Thames GW,1024,Burford Jurassic
+6,Thames,1019,Thames GW,1012,Berkshire Downs Chalk
+6,Thames,1019,Thames GW,1259,Vale of White Horse Chalk
+6,Thames,1019,Thames GW,1190,Chilterns South-West Chalk
+6,Thames,1019,Thames GW,1044,Colne GW
+6,Thames,1019,Thames GW,1092,Godalming Lower Greensand
+6,Thames,1019,Thames GW,1158,Reigate Lower Greensand
+6,Thames,1019,Thames GW,1081,Epsom and Dorking Chalk
+6,Thames,1019,Thames GW,1130,Maidenhead Chalk
+6,Thames,1019,Thames GW,1255,Lee Upper GW
+5,Anglian,1000,Anglian GW,1247,Ouse Upper Bedford Chalk
+6,Thames,1019,Thames GW,1219,Tackley Jurassic
+6,Thames,1019,Thames GW,1037,Chiltern Chalk Scarp
+6,Thames,1019,Thames GW,1098,Guildford Chalk
+6,Thames,1019,Thames GW,1005,Alton Chalk
+6,Thames,1019,Thames GW,1195,Essex South Lower London Tertiaries
+6,Thames,1019,Thames GW,1276,West Kent and Bromley Tertiaries
+6,Thames,1019,Thames GW,1242,Tunbridge Wells Sand and Kent Weald - Thames
+6,Thames,1019,Thames GW,1009,Banbury Jurassic
+6,Thames,1019,Thames GW,1038,Chipping Norton Jurassic
+6,Thames,1019,Thames GW,1111,Kemble Forest Marble
+6,Thames,1019,Thames GW,1181,Shrivenham Corallian
+6,Thames,1019,Thames GW,1100,Headington Corallian
+6,Thames,1019,Thames GW,1013,Bicester-Otmoor Cornbrash
+6,Thames,1019,Thames GW,1085,Farnborough Bagshot Beds
+6,Thames,1019,Thames GW,1039,Chobham Bagshot Beds
+6,Thames,1019,Thames GW,1004,Aldermaston Bagshot Beds
+6,Thames,1019,Thames GW,1233,Thatcham Tertiaries
+6,Thames,1019,Thames GW,1150,Old Basing Tertiaries
+6,Thames,1019,Thames GW,1080,Effingham Tertiaries
+6,Thames,1019,Thames GW,1094,Greenwich Tertiaries
+6,Thames,1019,Thames GW,1243,Twyford Tertiaries
+6,Thames,1019,Thames GW,1025,Byfield Jurassic
+6,Thames,1019,Thames GW,1256,Thames Upper Gravels
+7,South East,1014,South East GW,1076,East Kent Chalk and Tertiaries
+7,South East,1014,South East GW,1171,Seaford and Eastbourne Chalk Block
+7,South East,1014,South East GW,1162,Test River GW
+7,South East,1014,South East GW,1112,Kent Greensand Eastern
+7,South East,1014,South East GW,1121,Lower Greensand Adur and Ouse
+7,South East,1014,South East GW,1018,Brighton Chalk Block
+7,South East,1014,South East GW,1122,Lower Greensand Cuckmere and Pevensey Levels
+7,South East,1014,South East GW,1074,Hants East Chalk
+7,South East,1014,South East GW,1109,IOW Southern Downs Chalk
+7,South East,1014,South East GW,1107,IOW Lower Greensand
+7,South East,1014,South East GW,1008,AWS GW
+7,South East,1014,South East GW,1106,IOW Central Downs Chalk
+7,South East,1014,South East GW,1115,Littlehampton Anticline East
+7,South East,1014,South East GW,1116,Littlehampton Anticline West
+7,South East,1014,South East GW,1160,Itchen River Chalk
+7,South East,1014,South East GW,1211,Sussex Lambeth Group
+7,South East,1014,South East GW,1036,Chichester Chalk
+7,South East,1014,South East GW,1291,Worthing chalk
+7,South East,1014,South East GW,1006,Arun and Western Streams Hastings Beds
+7,South East,1014,South East GW,1075,Hants East Lambeth Group
+7,South East,1014,South East GW,1034,Hants Central Bracklesham Group
+7,South East,1014,South East GW,1108,IOW Solent Group
+7,South East,1014,South East GW,1000,Adur and Ouse Hastings Beds
+7,South East,1014,South East GW,1099,Hastings Beds Cuckmere and Pevensey Levels
+7,South East,1014,South East GW,1241,Tunbridge Wells Sand and Kent Weald - South East
+7,South East,1014,South East GW,1194,Hants South East Bracklesham Group
+7,South East,1014,South East GW,1212,Hants SW Barton Group
+7,South East,1014,South East GW,1197,Hants South Lambeth Group
+7,South East,1014,South East GW,1035,Hants Central Lambeth Group
+7,South East,1014,South East GW,1114,Kent Romney Marsh
+7,South East,1014,South East GW,1213,Hants SW Solent Group
+8,South West,1016,South West GW,1279,Crediton Western Trough
+8,South West,1016,South West GW,1239,Torquay
+8,South West,1016,South West GW,1155,Permian Aq in Central Devon
+8,South West,1016,South West GW,1152,Otter Valley
+8,South West,1016,South West GW,1050,Culmstock-Wiveliscombe
+8,South West,1016,South West GW,1073,Devon East - Greensand
+8,South West,1016,South West GW,1014,Blackdown Hills - Greensand
+8,South West,1016,South West GW,1129,Lyme Regis
+8,South West,1016,South West GW,1253,Frome Upper and Piddle
+8,South West,1016,South West GW,1017,Bridport Sands - West Alliton
+8,South West,1016,South West GW,1294,Yeovil Bridport Sands and Inferior Oolite
+8,South West,1016,South West GW,1252,Stour Upper Dorset
+8,South West,1016,South West GW,1151,Otter Sandstone Upper Catchment
+8,South West,1016,South West GW,1254,Avon Upper Hampshire
+8,South West,1016,South West GW,1023,Brownsea Island
+8,South West,1016,South West GW,1110,Isles of Scilly
+8,South West,1016,South West GW,1274,Cornwall West
+8,South West,1016,South West GW,1192,Cornwall South
+8,South West,1016,South West GW,1138,North Cornwall
+8,South West,1016,South West GW,1240,Torridge and Hartland Streams
+8,South West,1016,South West GW,1231,Teign Avon Dart and Erme
+8,South West,1016,South West GW,1199,South Zeal Area
+8,South West,1016,South West GW,1084,Exeter-Whiddon Down Culm
+8,South West,1016,South West GW,1161,Taw River and North Devon Streams
+8,South West,1016,South West GW,1153,Paignton and Brixham
+8,South West,1016,South West GW,1033,Devon Central and Exe - Aylesbeare Mudstone
+8,South West,1016,South West GW,1118,Stour Lower Dorset and Avon Hampshire
+8,South West,1016,South West GW,1186,Sidmouth and Honiton - Mercia Mudstone
+8,South West,1016,South West GW,1163,Yarty River and Axe Lower - Mercia Mudstone
+8,South West,1016,South West GW,1283,Winsham
+8,South West,1016,South West GW,1072,Dyrham Fm - North of Yeovil - Fragmented GWB
+8,South West,1016,South West GW,1088,Fullers Earth - Crewkerne
+8,South West,1016,South West GW,1089,Fullers Earth - Southeast Yeovil
+8,South West,1016,South West GW,1046,Corallian - Wincanton
+8,South West,1016,South West GW,1087,Forest Marble - East of Bruton
+8,South West,1016,South West GW,1120,Frome Lower and Piddle
+8,South West,1016,South West GW,1119,Stour Lower Dorset and Avon Lower Hampshire
+8,South West,1016,South West GW,1157,Reading Beds
+8,South West,1016,South West GW,1238,Tone and Somerset North Streams
+8,South West,1016,South West GW,1172,Seaton Looe and Fowey
+8,South West,1016,South West GW,1220,Tamar GW
+9,Severn,1011,Severn England GW,1175,Severn Uplands - Permo-Triassic Sandstone Knockin
+9,Severn,1011,Severn England GW,1180,Severn Vale and Wye - Carboniferous Limestone Forest of Dean
+9,Severn,1011,Severn England GW,1184,Severn Middle Shropshire - Permo-Triassic Sandstone East Shropshire
+9,Severn,1011,Severn England GW,1263,Avon Warwickshire - Permo-Triassic Sandstone Warwick and Avon Confined
+9,Severn,1011,Severn England GW,1290,Severn Middle Worcester - Permo-Triassic Sandstone
+9,Severn,1011,Severn England GW,1178,Severn Vale - Permo-Triassic Sandstone Newent
+9,Severn,1011,Severn England GW,1261,Avon Warwickshire - Jurassic Limestones Cotswold Edge North
+9,Severn,1011,Severn England GW,1177,Severn Vale - Jurassic Limestone Cotswold Edge South
+9,Severn,1011,Severn England GW,1105,Inferior Oolite and Bridport Sands
+9,Severn,1011,Severn England GW,1134,Mendips
+9,Severn,1011,Severn England GW,1019,Bristol Airport - Carboniferous Limestone
+9,Severn,1011,Severn England GW,1011,Bath Oolite
+9,Severn,1011,Severn England GW,1198,Malmesbury South
+9,Severn,1011,Severn England GW,1028,Carboniferous Limestone - Alveston
+9,Severn,1011,Severn England GW,1029,Carboniferous Limestone - Bristol
+9,Severn,1011,Severn England GW,1179,Severn Vale - Secondary Combined
+9,Severn,1011,Severn England GW,1292,Wye Secondary Devonian ORS
+9,Severn,1011,Severn England GW,1173,Severn Uplands - Carboniferous Oswestry
+9,Severn,1011,Severn England GW,1176,Severn Uplands Carboniferous Shrewsbury
+9,Severn,1011,Severn England GW,1260,Avon Warwickshire - Coal Measures Coventry
+9,Severn,1011,Severn England GW,1020,Avon Bristol Forest Marble
+9,Severn,1011,Severn England GW,1007,Avonmouth Mercia Mudstone
+9,Severn,1011,Severn England GW,1185,Severn Middle Shropshire - Secondary Combined
+9,Severn,1011,Severn England GW,1183,Severn Middle Shropshire - Coal Measures Dudley
+8,South West,1016,South West GW,1273,Wells
+9,Severn,1011,Severn England GW,1021,Bristol Triassic
+9,Severn,1011,Severn England GW,1156,Portishead Mercia Mudstone
+9,Severn,1011,Severn England GW,1047,Corallian Limestone - Calne to Swindon
+9,Severn,1011,Severn England GW,1289,Severn Middle Worcester - Mercia Mudstone
+9,Severn,1011,Severn England GW,1264,Avon Warwickshire - Secondary Mudrocks
+9,Severn,1011,Severn England GW,1232,Teme - Secondary Combined
+9,Severn,1011,Severn England GW,1182,Severn Middle Shropshire  -  Secondary Mudrocks and Drift Wem
+11,Dee,1005,Dee GW,1053,Dee Permo-Triassic Sandstone
+12,North West,1009,North West GW,1284,Wirral and Cheshire West Permo-Triassic Sandstone Aq
+12,North West,1009,North West GW,1091,Fylde Permo-Triassic Sandstone Aq
+12,North West,1009,North West GW,1132,Manchester and Cheshire East Permo-Triassic Sandstone Aq
+12,North West,1009,North West GW,1164,Rufford Permo-Triassic Sandstone Aq
+12,North West,1009,North West GW,1123,Mersey Basin Lower and Merseyside North Permo-Triassic Sandstone Aq
+12,North West,1009,North West GW,1090,Furness Permo-Triassic Sandstone Aq
+12,North West,1009,North West GW,1275,Cumbria West Permo-Triassic sandstone Aq
+12,North West,1009,North West GW,1191,Cheshire South and Staffordshire North Permo-Triassic Sandstone Aq
+12,North West,1009,North West GW,1165,Sankey and Glaze Carboniferous Aq
+12,North West,1009,North West GW,1066,Douglas Darwen and Calder Carboniferous Aq
+12,North West,1009,North West GW,1147,Manchester Northern Carboniferous Aq
+12,North West,1009,North West GW,1193,Cumbria South Lower Palaeozoic and Carboniferous Aq
+12,North West,1009,North West GW,1128,Lune and Wyre Carboniferous Aq
+12,North West,1009,North West GW,1131,Manchester and Cheshire East Carboniferous Aq
+12,North West,1009,North West GW,1159,Ribble Carboniferous Aq
+12,North West,1009,North West GW,1060,Derwent and Cumbria West Lower Palaeozoic and Carboniferous Aq
+12,North West,1009,North West GW,1278,West Lancashire Quaternary Sand and Gravel Aq
+12,North West,1009,North West GW,1268,Weaver and Dane Quaternary Sand and Gravel Aq
+7,South East,3082,South East TraC,3158,Hampshire East TraC
+8,South West,3086,South West TraC,3529,West Dorset Rivers TraC
+2,Solway Tweed,3079,Solway Tweed TraC,3476,Tweed Estuary
+3,Northumbria,3068,Northumbria TraC,3106,Coquet Lower Estuary
+3,Northumbria,3068,Northumbria TraC,3037,Blyth Estuary
+3,Northumbria,3068,Northumbria TraC,3007,Aln Estuary
+3,Northumbria,3068,Northumbria TraC,3516,Wansbeck Estuary
+3,Northumbria,3068,Northumbria TraC,3479,Tyne Lower and Estuary TraC
+3,Northumbria,3068,Northumbria TraC,3521,Wear Lower and Estuary TraC
+3,Northumbria,3068,Northumbria TraC,3446,Tees Lower and Estuary TraC
+4,Humber,3040,Humber TraC,3179,Esk TraC
+5,Anglian,3003,Anglian TraC,3329,Norfolk North TraC
+5,Anglian,3003,Anglian TraC,3328,Norfolk East TraC
+5,Anglian,3003,Anglian TraC,3428,Suffolk TraC
+8,South West,3086,South West TraC,3023,Axe Estuary
+8,South West,3086,South West TraC,3348,Otter Estuary
+8,South West,3086,South West TraC,3182,Exe Estuary
+8,South West,3086,South West TraC,3452,Teign Estuary
+8,South West,3086,South West TraC,3122,Dart Estuary
+8,South West,3086,South West TraC,3019,Avon Estuary
+8,South West,3086,South West TraC,3176,Erme Estuary
+8,South West,3086,South West TraC,3193,Fowey Estuary
+5,Anglian,3003,Anglian TraC,3180,Essex TraC
+7,South East,3082,South East TraC,3159,Kent East Coast
+7,South East,3082,South East TraC,3293,Lymington Beaulieu Estuaries
+7,South East,3082,South East TraC,3419,Southampton Water
+7,South East,3082,South East TraC,3236,Isle of Wight TraC
+8,South West,3086,South West TraC,3217,Avon Hampshire Estuary
+8,South West,3086,South West TraC,3368,Poole Harbour Rivers TraC
+8,South West,3086,South West TraC,3244,Kingsbridge and Salcombe Estuary
+8,South West,3086,South West TraC,3556,Yealm Estuary
+8,South West,3086,South West TraC,3434,Tamar Estuary
+8,South West,3086,South West TraC,3262,Looe Estuary
+8,South West,3086,South West TraC,3222,Helford Estuary
+8,South West,3086,South West TraC,3072,Carrick Roads
+2,Solway Tweed,3079,Solway Tweed TraC,3411,Solway Firth
+4,Humber,3040,Humber TraC,3228,Humber Estuary TraC
+5,Anglian,3003,Anglian TraC,3463,The Wash TraC
+5,Anglian,3003,Anglian TraC,3208,Great Ouse
+5,Anglian,3003,Anglian TraC,3517,Wash Inner
+6,Thames,3099,Thames TraC,3465,Tidal Thames
+6,Thames,3099,Thames TraC,3304,Medway Swale Estuary
+8,South West,3086,South West TraC,3066,Camel Estuary
+8,South West,3086,South West TraC,3220,Hayle Estuary
+9,Severn,3073,Severn England TraC,3400,Severn River and Trib Estuary
+9,Severn,3073,Severn England TraC,3047,Avon Bristol Urban Estuary
+12,North West,3066,North West TraC,3306,Mersey Estuary
+12,North West,3066,North West TraC,3009,Alt Estuary
+12,North West,3066,North West TraC,3378,Ribble Estuary
+12,North West,3066,North West TraC,3322,Morecambe Bay
+12,North West,3066,North West TraC,3232,Irt Esk Mite Estuary
+12,North West,3066,North West TraC,3133,Derwent Estuary
+12,North West,3066,North West TraC,3169,Ellen and West Coast Estuary
+7,South East,3082,South East TraC,3161,East Sussex Coast
+7,South East,3082,South East TraC,3270,Cuckmere Lower
+7,South East,3082,South East TraC,3279,Ouse Lower
+7,South East,3082,South East TraC,3267,Arun Lower TraC
+7,South East,3082,South East TraC,3264,Adur Lower
+8,South West,3086,South West TraC,3195,Gannel Estuary
+8,South West,3086,South West TraC,3442,Taw and Torridge Estuary
+8,South West,3086,South West TraC,3354,Parrett TraC
+7,South East,3082,South East TraC,3535,Western Streams TraC
+7,South East,3082,South East TraC,3219,Hatchet and Sowley Lagoons
+8,South West,3086,South West TraC,3247,Lands End to Trevose Head Coastal
+8,South West,3086,South West TraC,3108,Cornwall North Coastal
+8,South West,3086,South West TraC,3026,Barnstaple Bay
+8,South West,3086,South West TraC,3050,Bristol Channel Outer South
+8,South West,3086,South West TraC,3289,Lundy Coastal
+3,Northumbria,3068,Northumbria TraC,3186,Farne Islands to Newton Haven
+8,South West,3086,South West TraC,3421,St Austell Coastal
+8,South West,3086,South West TraC,3138,Devon South Coastal
+8,South West,3086,South West TraC,3365,Plymouth Coast
+8,South West,3086,South West TraC,3109,Cornwall South Coastal
+8,South West,3086,South West TraC,3393,Scilly Isles Coastal
+4,Humber,3040,Humber TraC,3557,Yorkshire Coast
+5,Anglian,3003,Anglian TraC,3255,Lincolnshire TraC
+7,South East,3082,South East TraC,3429,Sussex TraC
+8,South West,3086,South West TraC,3531,Somerset West Streams Coast
+12,North West,3066,North West TraC,3337,North West Region Coastal Waters
+3,Northumbria,3068,Northumbria TraC,3339,Northumberland North
+3,Northumbria,3068,Northumbria TraC,3340,Northumberland South
+3,Northumbria,3068,Northumbria TraC,3477,Tyne and Wear
+3,Northumbria,3068,Northumbria TraC,3215,Hadston Links and Cresswell Ponds
+7,South East,3082,South East TraC,3409,Solent
+8,South West,3086,South West TraC,3185,Fal and Helford Coastal
+8,South West,3086,South West TraC,3358,Penzance Coastal
+8,South West,3086,South West TraC,3292,Lyme Bay West
+3,Northumbria,3068,Northumbria TraC,3225,Holy Island and Budle Bay
+8,South West,3086,South West TraC,3467,Tor Bay
+4,Humber,2001,Humber AWB,2027,Hull and East Riding Canals
+4,Humber,2001,Humber AWB,2018,Don and Rother Canals
+4,Humber,2001,Humber AWB,2016,Derwent Upper Canals - Derbyshire
+4,Humber,2001,Humber AWB,2019,Erewash Canals
+4,Humber,2001,Humber AWB,2047,Rippon Canal
+4,Humber,2001,Humber AWB,2051,Selby Canal
+4,Humber,2001,Humber AWB,2041,Nottingham Urban Canals
+4,Humber,2001,Humber AWB,2064,Trent - Source to Sow Canals
+4,Humber,2001,Humber AWB,2060,Tame Upper Canals
+4,Humber,2001,Humber AWB,2007,Calder Canals
+4,Humber,2001,Humber AWB,2054,Soar Canals
+4,Humber,2001,Humber AWB,2001,Avon Urban Canals
+4,Humber,2001,Humber AWB,2002,Blythe Canals
+4,Humber,2001,Humber AWB,2009,Churnet Canals
+4,Humber,2001,Humber AWB,2031,Leeds and Liverpool Canal
+4,Humber,2001,Humber AWB,2065,Trent River Canals
+4,Humber,2001,Humber AWB,2043,Penk Canals
+4,Humber,2001,Humber AWB,2045,Pocklington Canal
+4,Humber,2001,Humber AWB,2059,Tame Lower Canals
+4,Humber,2001,Humber AWB,2055,Nottinghamshire South B Canals
+4,Humber,2001,Humber AWB,2028,Idle Canals
+5,Anglian,2000,Anglian AWB,2024,Grand Union Canal
+5,Anglian,2000,Anglian AWB,2067,Nene Upper Canals
+5,Anglian,2000,Anglian AWB,2068,Witham Upper Canals
+6,Thames,2010,Thames AWB,2032,Loddon Canals
+6,Thames,2010,Thames AWB,2004,Brent Canals and SWT
+6,Thames,2010,Thames AWB,2030,Kennet Canals
+6,Thames,2010,Thames AWB,2010,Colne Canals and SWT
+6,Thames,2010,Thames AWB,2063,Thame Canals
+6,Thames,2010,Thames AWB,2008,Cherwell Canals and SWT
+6,Thames,2010,Thames AWB,2033,Lee Lower Canals and SWT
+7,South East,2006,South East AWB,2071,Western Streams Canals
+7,South East,2006,South East AWB,2046,Reading Cradlebridge and RMC Canals
+7,South East,2006,South East AWB,2029,Itchen Navigation
+7,South East,2006,South East AWB,2066,Arun Upper Canals
+8,South West,2008,South West AWB,2042,Parrett Canals
+8,South West,2008,South West AWB,2025,Grand Western Canal
+8,South West,2008,South West AWB,2020,Exeter Ship Canal
+8,South West,2008,South West AWB,2006,Bude Canal
+8,South West,2008,South West AWB,2026,Avon Hampshire Canals
+9,Severn,2004,Severn England AWB,2049,Salwarpe River Canals
+9,Severn,2004,Severn England AWB,2052,Severn River and Trib Canals
+9,Severn,2004,Severn England AWB,2021,Frome and Cam Canals
+9,Severn,2004,Severn England AWB,2005,Avon Bristol Rural Canals
+9,Severn,2004,Severn England AWB,2000,Avon Rural Canals
+9,Severn,2004,Severn England AWB,2044,Perry Roden and Tern North Shropshire Canals
+9,Severn,2004,Severn England AWB,2053,Severn River Worcestershire Canals
+9,Severn,2004,Severn England AWB,2057,Stour Upper Worcestershire Canals
+9,Severn,2004,Severn England AWB,2056,Stour River and Trib Canals
+9,Severn,2004,Severn England AWB,2039,Morda and Severn North Shropshire Canals
+12,North West,2002,North West AWB,2035,Manchester Ship and Bridgewater Canals
+12,North West,2002,North West AWB,2013,Cumbria and Lancashire Canals and SWT
+12,North West,2002,North West AWB,2050,Sankey Canals
+12,North West,2002,North West AWB,2070,Weaver Upper Canals
+12,North West,2002,North West AWB,2023,Goyt Etherow Tame Canals
+12,North West,2002,North West AWB,2022,Glaze Canals
+12,North West,2002,North West AWB,2014,Dane Canals and SWT
+12,North West,2002,North West AWB,2003,Bollin Dean and Mersey Upper Canals
+12,North West,2002,North West AWB,2012,Croal Irwell Canals
+12,North West,2002,North West AWB,2048,Roch Irk Medlock Canals and SWT
+12,North West,2002,North West AWB,2069,Weaver Lower Canals
+3,Northumbria,2003,Northumbria AWB,2015,Derwent Tyne SWT
+4,Humber,2001,Humber AWB,2036,Calder Middle SWT
+6,Thames,2010,Thames AWB,2011,Crane SWT
+6,Thames,2010,Thames AWB,2034,Thames Lower SWT
+8,South West,2008,South West AWB,2017,Devonport Leat
+8,South West,2008,South West AWB,2061,Tavy Leats

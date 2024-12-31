@@ -1,0 +1,90 @@
+<div id="header">
+    <h1>English River Catchments</h1>
+    <h2 id="source-title"></h2>
+</div>
+<div id="body">
+    <form action="/RiverBasinDistrict" method="get" id="rbd-form">
+    <!-- Dropdown Control for River Basin Districts -->
+    <div id="river-basins" class="dropdown" style="display: none;">
+        <label for="rbd-select">River Basin District:</label><br/>
+        <select id="rbd-select" name="id">
+        </select>
+    </div>
+    </form>
+
+    <form action="/ManagementCatchment" method="get" id="mancat-form">
+    <!-- Dropdown Control for Management Catchments -->
+    <div id="management-catchments" class="dropdown" style="display: none;">
+        <label for="mancat-select">Management Catchment:</label><br/>
+        <select id="mancat-select" name="id">
+        </select>
+    </div>
+    </form>
+
+    <form action="/OperationalCatchment" method="get" id="opcat-form">
+    <!-- Dropdown Control for Operational Catchments -->
+    <div id="operational-catchments" class="dropdown" style="display: none;">
+        <label for="opcat-select">Operational Catchment:</label><br/>
+        <select id="opcat-select" name="id">
+        </select>
+    </div>
+    </form>
+
+    <!-- Dropdown Control for GeoJSON Water Bodies -->
+    <!-- <div id="water-bodies" class="dropdown" style="display: none;">
+    <label for="wbody-select">Water Bodies:</label><br/>
+    <select id="wbody-select">
+    </select>
+    </div> -->
+
+    <form action="/WaterBody" method="get" id="wbody-form">
+    <!-- Dropdown Control for Water Bodies -->
+    <div id="water-bodies" class="dropdown" style="display: none;">
+        <label for="wbody-select">Water Bodies:</label><br/>
+        <select id="wbody-select" name="id">
+        </select>
+    </div>
+    </form>
+
+    <!-- Dropdown Control for GeoJSON Features -->
+    <div id="features" class="dropdown" style="display: none;">
+    <label for="feature-select">Feature Type:</label><br/>
+    <select id="feature-select">
+        <option value="all">All Features</option>
+        <option value="catchments">Catchments</option>
+        <option value="rivers">Rivers/Canals</option>
+        <option value="lakes">Lakes/Reservoirs</option>
+    </select>
+    </div>
+
+    <!-- Dropdown Control for GeoJSON Sources (Operational Catchments)-->
+    <!-- <div id="sources">
+    <label for="geojsonSource">Select Source:</label><br/>
+    <select id="geojsonSource">
+        <option value="ManagementCatchment/3049">London</option>
+        <option value="OperationalCatchment/3032">Beverley Brook</option>
+        <option value="OperationalCatchment/3044">Brent</option>
+        <option value="OperationalCatchment/3096">Colne</option>
+        <option value="OperationalCatchment/3112">Crane</option>
+        <option value="OperationalCatchment/3113">Cray and Shuttle</option>
+        <option value="OperationalCatchment/3121">Darent</option>
+        <option value="OperationalCatchment/3224">Hogsmill</option>
+        <option value="OperationalCatchment/3275">Lower Lee</option>
+        <option value="OperationalCatchment/3298">Marsh Dykes</option>
+        <option value="OperationalCatchment/3369">Ravensbourne</option>
+        <option value="OperationalCatchment/3383">Roding Beam and Ingrebourne</option>
+        <option value="OperationalCatchment/3285">Thames Lower</option>
+        <option value="OperationalCatchment/3514">Wandle</option>
+    </select>
+    </div> -->
+
+    <div id="map"></div>
+    
+    <p><a href="https://environment.data.gov.uk/catchment-planning/" id="source-link" target="_blank">Data source</a> 
+    (note excludes ground water and tidal bodies and areas in Scotland or Wales)</p> 
+
+</div>
+
+<script src="/javascripts/webmap.js"></script>
+
+

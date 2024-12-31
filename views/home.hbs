@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Leaflet Map with GeoJSON Selection</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/stylesheets/leaflet.css">
+    <link rel="stylesheet" href="/stylesheets/style.css">
+</head>
+<body>
+
+    <div><h1>English River Catchments</h1></div>
+    <p>note excludes ground water and tidal bodies and any catchments in Scotland or Wales</p> 
+    <p> {{ title }} </p>
+    <!-- Dropdown Control for GeoJSON Features -->
+    <div id="controls">
+        <label for="geojsonSelect">Select Feature Type:</label><br/>
+        <select id="geojsonSelect">
+            <option value="all">All Features</option>
+            <option value="catchments">Catchments</option>
+            <option value="rivers">Rivers</option>
+            <option value="lakes">Lakes</option>
+        </select>
+    </div>
+    
+    <!-- Dropdown Control for GeoJSON Sources (Operational Catchments)-->
+    <div id="sources">
+        <label for="geojsonSource">Select Source:</label><br/>
+        <select id="geojsonSource">
+            <option value="ManagementCatchment/3049">London (parent)</option>
+            <option value="OperationalCatchment/3032">Beverley Brook</option>
+            <option value="OperationalCatchment/3044">Brent</option>
+            <option value="OperationalCatchment/3096">Colne</option>
+            <option value="OperationalCatchment/3112">Crane</option>
+            <option value="OperationalCatchment/3113">Cray and Shuttle</option>
+            <option value="OperationalCatchment/3121">Darent</option>
+            <option value="OperationalCatchment/3224">Hogsmill</option>
+            <option value="OperationalCatchment/3275">Lower Lee</option>
+            <option value="OperationalCatchment/3298">Marsh Dykes</option>
+            <option value="OperationalCatchment/3369">Ravensbourne</option>
+            <option value="OperationalCatchment/3383">Roding Beam and Ingrebourne</option>
+            <option value="OperationalCatchment/3285">Thames Lower</option>
+            <option value="OperationalCatchment/3514">Wandle</option>
+        </select>
+    </div>
+    
+    <div id="map"></div>
+    
+    <script src="/javascripts/webmap.js"></script>
+</body>
+</html>
