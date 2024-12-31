@@ -17,7 +17,7 @@ You may want to change the 'db_file' setting (name of your database in the `db` 
 The source SQLite database (approx 133MB in size) contains boundaries of River Basins, Management Catchments and Operational Catchments. 
 These are derived from downloaded Water Bodies. 
 
-To populate the database consult the file [db/INSTALL.txt]
+To populate the database consult the file [INSTALL.txt](db/INSTALL.txt)
 
 To install the node.js modules and build the source files
 
