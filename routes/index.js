@@ -51,18 +51,19 @@ const wbody_aliases = [ 'WaterBody', 'wbody' ];
 
 const { isEmpty, rivers, lakes, wbodies, all_wbodies } = require('../common.js');
 
-/* GET home page */
-router.get('/', function(req, res) {
-  var title = 'DEFRA Catchment RiverBasinDistrict';
-  res.render('index', { title: title });
-});
+/* define GET home page */
+router.get('/', pageHandler);
+router.get('/:catchm(RiverBasinDistrict|ManagementCatchment|OperationalCatchment|WaterBody)', pageHandler);
+router.get('/:catchm(RiverBasinDistrict|ManagementCatchment|OperationalCatchment|WaterBody)/:id', pageHandler);
 
-/* GET home page */
-router.get('/:catch(RiverBasinDistrict|ManagementCatchment|OperationalCatchment|WaterBody)', function(req, res) {
-  var title = 'DEFRA Catchment ' + req.params.catch;
-  if (!isEmpty(req.query.id)) title += ' ' + req.query.id;
-  res.render('index', { title: title });
-});
+function pageHandler(req, res) {
+    var catchm = 'RiverBasinDistrict';
+    if (!isEmpty(req.params.catchm)) catchm = req.params.catchm;
+    var title = 'DEFRA Catchment ' + catchm;
+    if (!isEmpty(req.params.id)) title += ' ' + req.params.id;
+    else if (!isEmpty(req.query.id)) title += ' ' + req.query.id;
+    res.render('index', { title: title });
+}
 
 // define the pass through OperationalCatchment API route
 /*router.get('/api/OperationalCatchment/:object', async (req, res) => {
@@ -112,7 +113,7 @@ router.get('/:catch(RiverBasinDistrict|ManagementCatchment|OperationalCatchment|
 */
 
 // define the API routes
-router.get('/api/:action/', apiHandler);
+router.get('/api/:action/', apiHandler); // lists top river basins using 'children' and 'child_bounds' actions
 router.get('/api/:action/:catchment/:id', apiHandler);
     
 function apiHandler(req, res) {
@@ -120,9 +121,7 @@ function apiHandler(req, res) {
         result = {};
         switch (req.params.action) {
             case 'ancestors':
-                if (rbd_aliases.includes(req.params.catchment))
-                    result = rbd.get(req.params.id);
-                else if (mancat_aliases.includes(req.params.catchment))
+                if (mancat_aliases.includes(req.params.catchment))
                     result = mancat_rbd.get(req.params.id);
                 else if (opcat_aliases.includes(req.params.catchment))
                     result = opcat_mancat_rbd.get(req.params.id);
@@ -194,7 +193,7 @@ function apiHandler(req, res) {
                         iterator = mancat_opcat_bounds.iterate(req.params.id);
                     else if (rbd_aliases.includes(req.params.catchment))
                         iterator = rbd_mancat_bounds.iterate(req.params.id);
-                    else if (!req.params.catchment)
+                    else if (isEmpty(req.params.catchment)) // top level river basins
                         iterator = rbd_all_bounds.iterate();
                     if (iterator) {
                         for (const b of iterator) {
@@ -209,16 +208,6 @@ function apiHandler(req, res) {
                     result = { 'type': "FeatureCollection", 'features': features };
                 else if (req.params.action === 'children')
                     result = features;
-                break;
-            case 'ancestors':
-                if (rbd_aliases.includes(req.params.catchment))
-                    result = rbd.get(req.params.id);
-                else if (mancat_aliases.includes(req.params.catchment))
-                    result = mancat_rbd.get(req.params.id);
-                else if (opcat_aliases.includes(req.params.catchment))
-                    result = opcat_mancat_rbd.get(req.params.id);
-                else if (wbody_aliases.includes(req.params.catchment))
-                    result = wbody_opcat_mancat_rbd.get(req.params.id);
                 break;
         }
         return res.json(result);

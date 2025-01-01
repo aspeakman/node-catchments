@@ -32,4 +32,25 @@ npm run build
 npm start
 ```
 
+# API Endpoints
+
+The website exposes the following API Endpoint
+
+> /api/**action**/**catchment**/**id**
+
+where **action** is one of:
+ - *ancestors* -> names and ids of all catchment areas enclosing this catchment (JSON dict)
+ - *boundary* -> boundary of this catchment (GeoJSON Feature)
+ - *detail* -> name and id of this catchment (JSON dict)
+ - *child_bounds* -> boundaries of all catchment areas directly enclosed by this catchment (GeoJSON FeatureCollection)
+ - *children* -> names and ids of all catchment areas directly enclosed by this catchment (JSON list of dicts)
+
+where **catchment** is one of:
+ - *RiverBasinDistrict*
+ - *ManagementCatchment*
+ - *OperationalCatchment*
+ - *WaterBody*
+
+and **id** is a unique identifier (a number, prefixed by 'GB' if a *WaterBody*)
+
 
